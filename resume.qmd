@@ -2,7 +2,7 @@
 layout: cv
 title: Erik Stearns' CV
 ---
-# Isaac Newton
+# Erik Stearns
 Accountant
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
